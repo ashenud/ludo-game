@@ -9,8 +9,6 @@ This is a simple command-line implementation of the classic board game Ludo, wri
 - [Installation](#installation)
 - [Compilation](#compilation)
 - [Usage](#usage)
-- [Game Rules](#game-rules)
-- [Credits](#credits)
 
 ## Features
 
@@ -29,7 +27,7 @@ This is a simple command-line implementation of the classic board game Ludo, wri
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/ludo-game.git
+    git clone https://github.com/ashenud/ludo-game.git
     cd ludo-game
     ```
 
